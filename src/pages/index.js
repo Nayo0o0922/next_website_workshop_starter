@@ -28,7 +28,7 @@ export default function Home() {
           </Head>
           <div>
               {/*Here we will have the data of our page*/}
-              welcome to my website
+              welcome to my portfolio
           </div>
       </>
   );

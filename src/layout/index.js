@@ -16,9 +16,9 @@ export default function Layout({ children }) {
         <div
             className={`${geistSans.className} ${geistMono.className} font-[family-name:var(--font-geist-sans)]`}
         >
-            <div className="flex min-h-screen p-4">
+            <div className="min-h-screen p-4">
                 {/* Sidebar */}
-                <div className="w-[150px]">
+                <div>
                     <Navbar />
                 </div>
 
